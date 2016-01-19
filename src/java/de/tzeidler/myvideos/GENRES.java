@@ -10,5 +10,7 @@ public enum GENRES {
     Action,
     Magic,
     Music,
-    Porn
+    Porn,
+    Marvel,
+    Comedy
 }
